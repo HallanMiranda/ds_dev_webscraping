@@ -1,4 +1,4 @@
-#!/Users/hallanmiranda/Documents/GitHub/ds_dev_webscraping/venv/bin/python3.9
+#!/Users/hallanmiranda/Documents/repos/ds_dev_webscraping/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
