@@ -1,2 +1,2 @@
 # ds_dev_webscraping
- webscraping em processo..
+ webscraping em processo de finalização ..
